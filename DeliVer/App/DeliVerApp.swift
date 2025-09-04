@@ -11,7 +11,7 @@ import SwiftUI
 struct DeliVerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashView()
         }
     }
 }
